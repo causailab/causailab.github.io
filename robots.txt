@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhangly811.github.io/causAI//sitemap.xml
+Sitemap: https://causailab.github.io/sitemap.xml
