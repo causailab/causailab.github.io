@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://causailab.github.io/causailab/sitemap.xml
+Sitemap: https://causailab.github.io/sitemap.xml
