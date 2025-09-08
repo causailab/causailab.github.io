@@ -16,6 +16,4 @@ Contact:
 
 -- Email: linyingz at wustl dot edu 
 
--- Webpage: [https://linyingzhang.com](https://linyingzhang.com)
-
-
+-- Webpage: https://linyingzhang.com/
