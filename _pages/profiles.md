@@ -29,7 +29,7 @@ profiles:
 
   - align: left
     image: pic_yous.jpg
-    content: about_chenh.md
+    content: about_yous.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
