@@ -14,14 +14,24 @@ profiles:
     content: about_zhangl.md
     image_circular: false # crops the image to make it circular
     more_info: >
-
+    
+  - align: left
+    image: pic_suns.jpg
+    content: about_suns.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 
   - align: left
     image: pic_chenh.jpeg
     content: about_chenh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    
+
+  - align: left
+    image: pic_yous.jpg
+    content: about_chenh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 
   - align: left
     image: pic_fanr.jpg
@@ -30,9 +40,5 @@ profiles:
     more_info: >
 
 
-  - align: left
-    image: pic_tbd.jpeg
-    content: about_tbd.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
+
 ---
