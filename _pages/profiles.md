@@ -34,7 +34,7 @@ profiles:
     more_info: >
 
   - align: left
-    image: pic_fanr.jpg
+    image: pic_fanr.jpeg
     content: about_fanr.md
     image_circular: false # crops the image to make it circular
     more_info: >

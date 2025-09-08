@@ -5,6 +5,7 @@
 Education: 
 
 -- Postdoctoral Researcher, Fudan University
+
 -- PhD in Transportation Engineering Economics and Management, Shanghai Maritime University
 
 Contact:
