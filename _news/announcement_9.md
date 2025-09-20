@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Linying Zhang won the [OHDSI Titan Award for Methodological Research] (https://www.ohdsi.org/titan-awards/)!
+Linying Zhang won the [OHDSI Titan Award for Methodological Research](https://www.ohdsi.org/titan-awards/)!
