@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /team/
-title: team
+title: Team
 description: If you want to go fast, go alone; if you want to go far, go together.
 nav: true
-nav_order: 2
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

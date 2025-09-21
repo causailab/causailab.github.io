@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: resources
+title: Resources
 description: Resources for learning about causal inference and AI/ML.
 nav: true
 nav_order: 4
