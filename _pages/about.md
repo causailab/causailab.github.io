@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <b>Causal</b> <b>A</b>rtificial <b>I</b>ntelligence (CausAI Lab)
 
