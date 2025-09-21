@@ -4,7 +4,7 @@ permalink: /resources/
 title: resources
 description: Resources for learning about causal inference and AI/ML.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Causal inference
