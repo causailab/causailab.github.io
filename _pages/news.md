@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: news
 permalink: /news/
 nav: true
 nav_order: 40   # adjust position; smaller = earlier
