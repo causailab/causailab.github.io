@@ -42,3 +42,13 @@ profiles:
 
 
 ---
+
+## Alumni
+
+<ul class="alumni-list">
+{% for a in site.data.alumni %}
+  <li>
+    <strong>{{ a.name }}</strong> — {{ a.role }} {{ a.years }}. Current position: {{ a.current }}.
+  </li>
+{% endfor %}
+</ul>
