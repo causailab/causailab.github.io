@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<!-- about.html -->
+<!-- profiles.html -->
 <div class="post">
   <article>
     {% if page.profiles %}
@@ -20,19 +20,18 @@ layout: page
         {% assign profile_image_class = "img-fluid z-depth-1 rounded" %}
         {% endif %}
         {% include figure.html
-        path=profile_image_path
-        class=profile_image_class
-        alt=profile.image %}
+          path=profile_image_path
+          class=profile_image_class
+          alt=profile.image
+        %}
         {% endif %}
       </div>
 
       <!-- Text column -->
       <div class="col-md-8">
         {% if profile.content %}
-        {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
-        {{ profile_content | markdownify }}
-        {% else %}
-        {{ content }}
+          {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
+          {{ profile_content | markdownify }}
         {% endif %}
         {% if profile.more_info %}
         <div class="more-info">
@@ -43,6 +42,14 @@ layout: page
 
     </div>
     {% endfor %}
+    {% endif %}
+
+    <!-- Page extra content (e.g., Alumni section from _pages/profiles.md body) -->
+    {% if content and content != "" %}
+    <hr class="my-4">
+    <section id="alumni" class="container">
+      {{ content }}
+    </section>
     {% endif %}
   </article>
 </div>
