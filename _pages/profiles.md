@@ -40,8 +40,8 @@ profiles:
     more_info: >
 
   - align: left
-    image: pic_rxin.jpg
-    content: about_rxin.md
+    image: pic_xinr.jpg
+    content: about_xinr.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
