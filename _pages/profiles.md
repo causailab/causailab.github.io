@@ -21,15 +21,9 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  # - align: left
-  #   image: pic_chenh.jpeg
-  #   content: about_chenh.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-
   - align: left
-    image: pic_yous.jpg
-    content: about_yous.md
+    image: pic_fanr.jpeg
+    content: about_fanr.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
@@ -46,8 +40,8 @@ profiles:
     more_info: >
 
   - align: left
-    image: pic_fanr.jpeg
-    content: about_fanr.md
+    image: pic_yous.jpg
+    content: about_yous.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
