@@ -1,6 +1,6 @@
 ## Saiyu You
 
-**Master's student**
+**Master's Student**
 
 Education:
 

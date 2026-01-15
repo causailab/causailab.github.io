@@ -21,15 +21,27 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: left
-    image: pic_chenh.jpeg
-    content: about_chenh.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
+  # - align: left
+  #   image: pic_chenh.jpeg
+  #   content: about_chenh.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
 
   - align: left
     image: pic_yous.jpg
     content: about_yous.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: pic_kwons.jpg
+    content: about_kwons.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: pic_rxin.jpg
+    content: about_rxin.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
